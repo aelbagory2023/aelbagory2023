@@ -1,4 +1,4 @@
-👋 Hello! I’m a Blockchain Developer and Web Development Enthusiast.
+👋 Hello! My name is Ahmed and I'm a Blockchain Developer and Web Development Enthusiast.
 
 I specialize in building high-performance APIs using Express.js, managing over 100 million blockchain queries monthly, and developing Solidity smart contracts (ERC20, ERC721). My projects include API integrations across EVM chains and Solana, with a focus on reliability through rigorous unit and integration testing.
 
