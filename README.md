@@ -1,12 +1,21 @@
-👋 Hello! My name is Ahmed and I'm a Blockchain Developer and Web Development Enthusiast.
+# 👋 Hi there, I'm Ahmed!
 
-I specialize in building high-performance APIs using Express.js, managing over 100 million blockchain queries monthly, and developing Solidity smart contracts (ERC20, ERC721). My projects include API integrations across EVM chains and Solana, with a focus on reliability through rigorous unit and integration testing.
+I'm a Blockchain Developer and Web Development Enthusiast focused on creating scalable APIs and secure smart contracts.
 
-🌐 Tech Stack: JavaScript, TypeScript, Solidity, Java, HTML/CSS.
+## 💼 What I Do
+- Build high-performance APIs with Express.js
+- Manage 100M+ blockchain queries monthly
+- Develop Solidity smart contracts (ERC20, ERC721)
+- Integrate with EVM and Solana chains
+- Implement robust testing: unit & integration
 
-🚀 Transitioning from a successful career in project management, I recently completed a coding bootcamp at Tech Elevator, expanding my expertise in web applications. Fluent in English and Arabic, I’m passionate about merging quality-driven project management with innovative coding.
+## 🛠️ Tech Stack
+- JavaScript / TypeScript / Solidity / Java / HTML & CSS
 
-Let’s connect and create something impactful!
+## 🚀 Background
+Transitioned from a successful career in project management  
+Graduated from Tech Elevator’s coding bootcamp  
+Fluent in English and Arabic
 
-You can find me on LinkedIn at: https://www.linkedin.com/in/ahmedfelbagory/
-
+## 🤝 Let’s Connect!
+[LinkedIn](https://www.linkedin.com/in/ahmedfelbagory/)
